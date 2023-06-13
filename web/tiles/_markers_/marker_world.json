@@ -1,0 +1,19 @@
+{"sets": {"chunky.markerset": {"hide": false,"circles": {}
+,"areas": {"area_1": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [50000.00,-50000.00,-50000.00,50000.00]
+,"weight": 3,"z": [-50000.00,-50000.00,50000.00,50000.00]
+,"ybottom": 64.00,"label": "World Border","opacity": 1.00,"fillopacity": 0.00}
+}
+,"label": "World Border","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {"_worldborder_world": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-50000.00,50000.00,50000.00,-50000.00]
+,"weight": 3,"z": [-50000.00,-50000.00,50000.00,50000.00]
+,"ybottom": 64.00,"label": "Border","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": -157.00,"icon": "world","y": 115.00,"dim": "16x16","z": -14.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1685977994289}
